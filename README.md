@@ -19,14 +19,6 @@ This project is part of my Data Analytics learning journey where I performed an 
 - English is the dominant movie language
 - Higher duration often correlates with higher ratings
 
-## 📁 Files Included
-- `imdb_data_cleaned.xlsx` – Cleaned dataset
-- `IMDB_Analysis_Report.pdf` – 1-page summary report
-- `IMDB_Charts/` – Visuals used for insights
-- `video_presentation_link.txt` – Link to my video (optional)
-
-## 📽️ [Watch the Presentation](your-youtube-or-drive-link)
-
 ---
 
 ### 🚀 About Me
